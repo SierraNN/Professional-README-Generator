@@ -1,5 +1,5 @@
 
-   # readme generator
+   # 09 Node.js Challenge: Professional README Generator
 
    ## Table of Contents
     - [Description](#description)
@@ -9,16 +9,16 @@
     - [License](#license)
    
    ## Description
-   descsdlekrng
+   I created a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). I review the [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) as a reminder of everything that a high-quality, professional README should contain. 
    
    ## Usage
-   asfkdfhgnsdf
+   See Linked Video Demonstration:
    
    ## Contributors
-   sdfgkjnsgd
+   No Contributors
    
    ## Test Instructions
-   sdfgjknsdhkirath
+   Run index.js
    
    ---
    
